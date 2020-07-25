@@ -155,7 +155,7 @@ $("#newRoom").on("click", ".buttondelete", deleteRoom);
   };
 
 
-var random_images_array = ["pic1.png", "pic2.png", "pic3.png", "pic4.png", "pic5.png"];
+var random_images_array = ["pic1.png", "pic2.png", "pic3.png", "pic4.png", "pic5.png", "pic6.png", "pic7.png", "pic8.png"];
 
 function getRandomImage() {
   var path ='/assets/pictures/'; // default path here
